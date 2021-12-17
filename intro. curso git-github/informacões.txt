@@ -1,0 +1,2 @@
+link para o git:https://git-scm.com/
+O gitbash é um terminal extendido para otimizar o uso do Git.
