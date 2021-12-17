@@ -2,6 +2,6 @@
 Repositório Criado para o Desafio do Projeto.
 
 
-## Links Últeis;
+## Links Últeis:
 [Sintaxe Básica do Markdow](https://www.markdownguide.org/basic-syntax/)
 
